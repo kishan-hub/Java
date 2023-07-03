@@ -29,7 +29,8 @@
   <modules>
             		
     <module>JavaFundamental</module>
-      
+
+    <module>Solid-principal</module>
   </modules>
       
 
